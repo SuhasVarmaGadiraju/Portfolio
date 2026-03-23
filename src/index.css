@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: "Poppins", sans-serif;
+  }
+}
+
+@keyframes floatCard {
+  0%   { transform: translateY(0px); }
+  50%  { transform: translateY(-15px); }
+  100% { transform: translateY(0px); }
+}
+
+/* Certificate Carousel Marquee Animation */
+.cert-carousel {
+  display: flex;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+}
+
+.cert-carousel > a {
+  flex-shrink: 0;
+}
+
+/* Infinite scroll animation using CSS transform */
+@keyframes marquee {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+.cert-marquee {
+  display: flex;
+  width: fit-content;
+  animation: marquee 17s linear infinite;
+  will-change: transform;
+}
+
+.cert-marquee:hover {
+  animation-play-state: paused;
+}
