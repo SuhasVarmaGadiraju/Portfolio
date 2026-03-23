@@ -140,8 +140,8 @@ export const listProyek = [
   {
     id: 3,
     image: Proyek3,
-    title: "Godavari Pickles",
-    subtitle: "A web-based platform for showcasing and selling homemade pickles...",
+    title: "Godavari Pickles 🫙",
+    subtitle: "Family Business · A web-based platform for showcasing and selling authentic homemade Andhra pickles with a user-friendly interface...",
     fullDescription: "An e-commerce website built for a homemade pickles brand, featuring a clean product catalog, intuitive navigation, and a user-friendly interface. The platform showcases a variety of traditional pickle products with descriptions and ordering options, giving the brand a strong digital presence. Developed entirely with HTML, CSS, and JavaScript with a focus on responsive design and smooth user experience.",
     borderColor: "#10B981",
     gradient: "linear-gradient(180deg, #10B981, #000)",
