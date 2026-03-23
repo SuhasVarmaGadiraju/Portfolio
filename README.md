@@ -1,61 +1,46 @@
-# Portofolio Web — [Faris Edrik P / rissss21]
+# Suhas Varma — Portfolio
 
-Selamat datang di portofolio web pribadi saya! 🌐  
-Dibuat dengan React + Vite, ini adalah showcase dari project, skill, dan karya yang ingin saya bagikan.
+🌐 My personal portfolio website built with React + Vite + Tailwind CSS.
 
-##  Struktur Project
+## 🔗 Live Demo
+[View Portfolio](https://your-portfolio.vercel.app)
 
-- `public/` — file statis (favicon, assets, dsb.)  
-- `src/` — code utama React (komponen, utilitas, dsb.)  
-- `index.html` — entry point halaman web  
-- `package.json` & `package-lock.json` — manajemen dependencies dan script  
-- `vite.config.js` — konfigurasi build dan dev server Vite  
-- `eslint.config.js` — aturan linting agar kodenya tetap bersih dan konsisten  
+## 📁 Project Structure
+- `public/` — static files (favicon, assets, images)
+- `src/` — main React code (components, utilities)
+- `index.html` — web page entry point
+- `package.json` — dependencies and scripts
+- `vite.config.js` — Vite build configuration
 
-##  Fitur Utama
+## ✨ Features
+- Built with React + Vite — fast, lightweight, optimal performance
+- Tailwind CSS for modern styling
+- Smooth animations with AOS and Framer Motion
+- Interactive 3D profile card
+- Projects showcase with modal popups
+- Certificates section with direct links
+- Contact form powered by FormSubmit
+- Fully responsive design
 
-- Dibangun dengan **React + Vite** — ringan, cepat reload, dan performa build optimal  
-- **ESLint** telah terkonfigurasi agar coding style tetap rapi  
-- Struktur modular dan siap dikembangkan—bisa ditambahkan halaman “About”, “Projects”, dsb.
-
-##  Cara Jalankan
-
-1. Clone repository ini:
-```bash
-git clone https://github.com/rissss21/portofolio.git
-cd portofolio
-````
+## 🚀 Run Locally
+1. Clone the repository:
+   git clone https://github.com/SuhasVarmaGadiraju/Portfolio.git
+   cd Portfolio
 
 2. Install dependencies:
-```bash
-npm install
-````
+   npm install
 
-3. Jalankan server lokal dengan hot reload:
-```bash
-npm run dev
-````
+3. Start local server:
+   npm run dev
 
-4. Buat versi production:
-```bash
-npm run build
-````
+4. Build for production:
+   npm run build
 
-## &#x20;Quick Preview
+## 👨‍💻 About Me
+Hi, I'm Suhas Varma — an AI/ML Engineer passionate about building 
+intelligent systems and data-driven solutions.
 
-Jika sudah di-deploy (contoh: GitHub Pages, Netlify, Vercel), kamu bisa tambahkan link deploy di sini, misalnya:
-[🔗 Lihat versi live](https://username.github.io/portofolio/)
-
-## Tentang Saya
-
-Hai, saya Faris Edrik P (username GitHub: `rissss21`).
-Saya seorang Developer yang suka bikin aplikasi web ringan dengan tampilan modern dan performa tinggi. Scroll aja di project saya, dan jangan sungkan untuk reach out kalau ada pertanyaan!
-
-* **Email:** [email\_farisedrik21@gmail.com](mailto:email_farisedrik21@gmail.com)
-* **LinkedIn:** [linkedin.com/in/farisedp](https://www.linkedin.com/in/farisedp/)
-* **Instagram:** @farisedrikprayoga
-
----
-
-
-[1]: https://github.com/rissss21/portofolio "GitHub - rissss21/portofolio"
+- 📧 Email: suhasvarma1530@gmail.com
+- 💼 LinkedIn: linkedin.com/in/suhas-varma-gadiraju
+- 🐙 GitHub: github.com/SuhasVarmaGadiraju
+- 📸 Instagram: @suhas._.varmaa
