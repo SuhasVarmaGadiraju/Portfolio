@@ -139,7 +139,7 @@ function App() {
             />
             <div className="flex items-center sm:gap-4 gap-2">
               <a 
-                href="/portofolio/assets/Suhas_Varma_CV.pdf"
+                href="/assets/Suhas_Varma_CV.pdf"
                 download="Suhas_Varma_CV.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
